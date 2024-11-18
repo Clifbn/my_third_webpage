@@ -259,7 +259,7 @@
   }
   
   .banner {
-    background-image: url(./images/special-background.jpg); 
+    background-image: url(images/special-background.jpg); 
     background-size: cover;
     background-position: center;
     height: 400px;
@@ -310,7 +310,7 @@
   
   .grid_area_top_left_block_image {
     flex: 1;
-    background-image: url(./images/christmas-dinner.jpg); /*  image path */
+    background-image: url(images/christmas-dinner.jpg); /*  image path */
     background-size: cover;
     background-position: center;
   }
@@ -394,7 +394,7 @@
   
   .grid_area_middle_right_block_image {
     flex: 1;
-    background-image: url(./images/thanksgiving-dinner.jpg); /*  image path */
+    background-image: url(images/thanksgiving-dinner.jpg); /*  image path */
     background-size: cover;
     background-position: center;
   }
